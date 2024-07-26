@@ -1,0 +1,19 @@
+__pycache__
+exported_models
+PlantVillage
+archive.zip
+/.ipynb_checkpoints
+.new_model.keras
+
+
+
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env
+frontend/npm-debug.log*
