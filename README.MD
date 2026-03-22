@@ -60,8 +60,6 @@ https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ```
 ## Screenshots
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot.png?alt=media&token=7feeac57-1f01-4ed2-ada9-bf640ac5491f)
+![image](assets/Screenshot.png)
 
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot%202.png?alt=media&token=d7290db7-385c-4e50-9400-1c499bcb66f9)
-
-![image](https://firebasestorage.googleapis.com/v0/b/tomatoguard-2110e.appspot.com/o/Screenshot%203.png?alt=media&token=1c0a1075-17f2-4df8-8a01-eb6d3531c728)
+![image](assets/Screenshot1.png)
